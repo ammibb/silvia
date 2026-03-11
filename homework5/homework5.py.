@@ -1,0 +1,10 @@
+#Git is 
+#Terminal is the application that holds the command line. So the command line is what executes whatever we write into it.
+#A local repository is one that lives in your personal computer, where as a remote repository is one that can be accessed outside of the personal computer.
+#4.
+#5.
+#6. Git add is a command to add changes from the working directory into the staging area, and gets it ready to be committed.
+#7 Git commit saves all the changes, where -m allows for a message which is useful for tracking what we have done.
+#8 Git push then puts all the work into the remote repository 
+#9 Git status shows you what files were modified, staged, or not being tracked.
+#Git pull is...
